@@ -1,4 +1,4 @@
 # portfolio
 This is my first git repository.
 <br>
-Author-Nidhi
+Author-Nidhi(Apna-college)
